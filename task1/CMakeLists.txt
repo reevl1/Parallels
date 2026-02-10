@@ -3,7 +3,7 @@ project(SinusTask)
 
 option(USE_DOUBLE "Use double" ON)
 
-add_executable(app main.cpp)
+add_executable(app 1task.cpp)
 
 target_compile_definitions(app PRIVATE _USE_MATH_DEFINES)
 
