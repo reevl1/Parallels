@@ -16,3 +16,14 @@ cmake --build build
 ```
 ./build/app
 ```
+## Выводы программ
+### Double
+```
+Type: DOUBLE
+Sum: 6.27585e-10
+```
+### Float
+```
+Type: FLOAT
+Sum: -0.0277862
+```
